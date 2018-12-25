@@ -1,3 +1,5 @@
 # introtoprogramming
 Here is a graphical tutorial utilizing a jupyter notebook of recursion
-It is a static html page, but to run the notebook interactively please utilize binder
+Github is static html
+However, this jupyter notebook is interactive to explore the code samples so utilize binder link: 
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/compscicoach/introtoprogramming/master)
