@@ -2,7 +2,7 @@
 Here is a graphical interactive Python tutorial to introduce beginners to the language <br />
 Github is static html <br />
 However, this jupyter notebook is interactive so to execute the code samples utilize binder link: <br />
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/compscicoach/introtoprogramming/master) to run Introduction to Python Programming.ipynb
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/compscicoach/introtoprogramming/master) then click to run Introduction to Python Programming.ipynb
 I am using binder because it creates a multi-user Jupyter notebook server environment to run my interactive notebook which has a back end of three components:<br />
 - BinderHub is deterministically build docker images from a git repository + commit for who want to easily interact with computational environments that others have created<br />
 - repo2docker which is a tool that converts a code repository into a Docker image with an environment specified via dependency files (e.g., requirements.txt)<br />
