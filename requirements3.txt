@@ -1,0 +1,4 @@
+#file contains the packages needed to run the notebooks
+numpy
+matplotlib
+pandas
