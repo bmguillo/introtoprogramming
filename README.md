@@ -10,4 +10,4 @@ I am using binder because it creates a multi-user Jupyter notebook server enviro
 
 For more information: https://jupyter-notebook.readthedocs.io/en/stable/public_server.html, https://blog.jupyter.org/binder-2-0-a-tech-guide-2017-fd40515a3a84, https://jvns.ca/blog/2017/11/12/binder--an-awesome-tool-for-hosting-jupyter-notebooks/
 
-You can also opt to host your own notebook server with Jupyterhub https://github.com/jupyterhub/jupyterhub/wiki/Installation-of-Jupyterhub-on-remote-server, https://zero-to-jupyterhub.readthedocs.io/en/latest/
+You can also opt to host your own notebook server with Jupyterhub utilizing Helm, Kubernetes using Google Compute AWS or IBM Cloud https://github.com/jupyterhub/jupyterhub/wiki/Installation-of-Jupyterhub-on-remote-server, https://zero-to-jupyterhub.readthedocs.io/en/latest/
