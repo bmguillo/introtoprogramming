@@ -9,7 +9,8 @@ I am using binder because it creates a multi-user Jupyter notebook server enviro
 - JupyterHub, allows for a multi-user Jupyter notebook server as opposed to a locally hosted Jupyter notebook server(localhost:8888, 127.0.0.1:8888) which hosts user instances with a server in the cloud. We use a distribution of JupyterHub that runs on top of Kubernetes
 https://jupyterhub.readthedocs.io/en/latest/<br />
 
-For more information: https://jupyter-notebook.readthedocs.io/en/stable/public_server.html, https://blog.jupyter.org/binder-2-0-a-tech-guide-2017-fd40515a3a84, https://jvns.ca/blog/2017/11/12/binder--an-awesome-tool-for-hosting-jupyter-notebooks/
+# Information on MyBinder, JupyterHub, BinderHub, Helm, Docker/Kubernetes
+For more information on utillizing mybinder for multi-user jupyter notebook hosting & jupyter notebooks in the future: https://jupyter-notebook.readthedocs.io/en/stable/public_server.html, https://jvns.ca/blog/2017/11/12/binder--an-awesome-tool-for-hosting-jupyter-notebooks/
 
-You can also opt to host your own notebook server with Jupyterhub utilizing Helm, Kubernetes using Google Compute AWS or IBM Cloud https://zero-to-jupyterhub.readthedocs.io/en/latest/
+You can also opt to host your own notebook server with Jupyterhub utilizing Helm, Kubernetes using Google Compute AWS or IBM Cloud if you choose in the future to create your own multi-user jupyter notebook hosting & jupyter notebooks https://zero-to-jupyterhub.readthedocs.io/en/latest/, https://blog.jupyter.org/binder-2-0-a-tech-guide-2017-fd40515a3a84
 
