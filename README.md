@@ -9,6 +9,9 @@ I am using binder because it creates a multi-user Jupyter notebook server enviro
 - JupyterHub, allows for a multi-user Jupyter notebook server as opposed to a locally hosted Jupyter notebook server(localhost:8888, 127.0.0.1:8888) which hosts user instances with a server in the cloud. We use a distribution of JupyterHub that runs on top of Kubernetes
 https://jupyterhub.readthedocs.io/en/latest/<br />
 
+
+The requirements3 file is required, it needs to be created in the root of the repository for Python 3 dependencies/packages that need to be installed at build time such as matplotlib, pandas
+
 # Information on MyBinder, JupyterHub, BinderHub, Helm, Docker/Kubernetes
 For more information on utillizing mybinder for multi-user jupyter notebook hosting & jupyter notebooks in the future: https://jupyter-notebook.readthedocs.io/en/stable/public_server.html, https://jvns.ca/blog/2017/11/12/binder--an-awesome-tool-for-hosting-jupyter-notebooks/
 
